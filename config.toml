@@ -10,9 +10,9 @@ paginate = 3
   topic = "topic/:year/:month/:day/:title/"
 
 [params]
-  Author = "Author Name"
-  Description = "Description of website for head meta tag"
-  Subtitle = "A subtitle for your site"
+  Author = "Petr Moravek"
+  Description = "A computer enthusiast blog site with some ideas and thoughts."
+  Subtitle = "Time bending..."
   Avatar = "images/site-logo.svg"
   Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
   ShowBio = false
