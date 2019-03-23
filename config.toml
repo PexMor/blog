@@ -1,4 +1,38 @@
 baseURL = "https://blog.xlinux.cz/"
-languageCode = "en-us"
 title = "PexMor Blog"
-theme = "ananke"
+copyright = "Copyright © 2019, Petr Moravek"
+languageCode = "en-US"
+theme = "indigo"
+paginate = 3
+
+[permalinks]
+  post = "post/:year/:month/:day/:title/"
+  topic = "topic/:year/:month/:day/:title/"
+
+[params]
+  Author = "Author Name"
+  Description = "Description of website for head meta tag"
+  Subtitle = "A subtitle for your site"
+  Avatar = "images/site-logo.svg"
+  Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
+  ShowBio = false
+  PermalinkText = "🔗 permalink"
+
+  # Contact/social-network identifiers for social icons
+  GitHubUser = "PexMor"
+  LinkedInUser = "petrmoravekxlinux"
+  MediumUser = "@petr1moravek"
+  StackOverflowUser = "1300319/pxlinux"
+  TwitterUser = "pexmor1"
+
+  # These are parameters used for indieweb identity. You should set these along
+  # with the above email/social network parameters.
+  [params.indieWeb]
+    # EmailAddress = "email.address@example.com"
+    GitHubUser = "PexMor"
+    LinkedInUser = "petrmoravekxlinux"
+    MediumUser = "petr1moravek"
+    StackOverflowUser = "pxlinux"
+    TwitterUser = "pexmor1"
+    Country = "Czech Republic"
+    City = "Prague"

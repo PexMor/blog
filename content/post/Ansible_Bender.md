@@ -1,11 +1,15 @@
 ---
-title: "Ansible #3: ansible-bender"
-date: 2019-03-22T22:25:05+01:00
-draft: false
+title: "Ansible no.3: ansible-bender"
+author: Petr Moravek
+date: 2019-03-21T22:25:05+01:00
+categories: ["prgcont"]
+tags: ["buildah","podman","ansible"]
 ---
-# Ansible #3: ansible-bender
 
-[2019/03/21] - This time we have come together to talk about containers or their images managed by __ansible__.
+This time we have come together to talk about containers or their images managed by __ansible__.
+We have spoken about __buildah__ and __podman__ in concert with above mentioned system management tool.
+
+<!--more-->
 
 ## Initial rehearsal
 
