@@ -7,7 +7,7 @@ paginate = 3
 
 [permalinks]
   post = "post/:year/:month/:day/:title/"
-  topic = "topic/:year/:month/:day/:title/"
+  topic = "topic/:title/"
 
 [params]
   Author = "Petr Moravek"
