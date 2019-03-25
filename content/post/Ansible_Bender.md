@@ -125,7 +125,7 @@ __Answer:__ stdin/out/err, but the cousin project __podman__ uses structured API
 
 ## One more thing
 
-* [Quarkus](https://quarkus.io/) - Red Hat take on Java Fast(TM)
+* [Quarkus](https://quarkus.io/) - Red Hat's take on Java Fast(TM)
 * [Drools](https://www.drools.org/) (BPML) - slow java -> graalvm (AOT) made fast (from Red Hat blog [Quarking Drools...](https://developers.redhat.com/blog/2019/03/14/quarking-drools-how-we-turned-a-13-year-old-java-project-into-a-first-class-serverless-component/))
 * [OptaPlanner](https://www.optaplanner.org/) - a path optimizer (path for your VMs towards right hypervisor)
 
