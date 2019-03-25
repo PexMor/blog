@@ -124,6 +124,11 @@ __Answer:__ stdin/out/err, but the cousin project __podman__ uses structured API
 ## One more thing
 
 * [Quarkus](https://quarkus.io/) - Red Hat take on Java Fast(TM)
-* [Drools](https://www.drools.org/) (BPML) - slow java -> graalvm (AOT) made fast (a Red Hat has its contribution here)
+* [Drools](https://www.drools.org/) (BPML) - slow java -> graalvm (AOT) made fast (from Red Hat blog [Quarking Drools...](https://developers.redhat.com/blog/2019/03/14/quarking-drools-how-we-turned-a-13-year-old-java-project-into-a-first-class-serverless-component/))
 * [OptaPlanner](https://www.optaplanner.org/) - a path optimizer (path for your VMs towards right hypervisor)
 
+## Off-topic
+
+__Question:__ How to replace legacy of __Mirantis Openstack__ with something fresh?
+
+__Answer:__ Well there is a couple of other doing the same thing like __TripleO__ and __Redhat Director__ but what about to consider shrinking the problem into __just__ making the __VM__ behave like a __container__? Then it is worth to check the idea behind Container Native Virtualization (aka CNV see [as preseneted on Red Hat Summit - May 2018](https://www.redhat.com/files/summit/session-assets/2018/Introducing-Container-native-Virtualization.pdf)).
