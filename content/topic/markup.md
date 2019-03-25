@@ -9,6 +9,8 @@ url: "/topic/markup/"
 
 There are some tools that might help you process, update, write json and yaml files.
 
+<!--more-->
+
 ## The mother of all those tools
 
 [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)

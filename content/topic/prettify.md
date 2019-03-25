@@ -7,6 +7,10 @@ tags: ["bash","jq","yq","rmate","tmux","oath","tricks"]
 url: "/topic/tricks/"
 ---
 
+Bunch of tools has been collected over time that might help to expedite boring tasks in your life.
+
+<!--more-->
+
 * jq
 * yq (python, golang)
 * python json.mtool

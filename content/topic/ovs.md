@@ -9,5 +9,9 @@ url: "/topic/sdn/"
 
 The OVS is a software switch that brings the state of art switching and flow routing on linux.
 
+<!--more-->
+
 SDN the buzzword withing Openstack, Kubernetes (+OpenShift), Docker, Rocket.
 
+* OpenVSwitch
+* OpenContrail or Tungsten Fabric

@@ -7,6 +7,10 @@ tags: ["OS","python","tricks"]
 url: "/topic/python/"
 ---
 
+The new kind on the block of system languages. Ooops the indents...
+
+<!--more-->
+
 * v2 and v3
 * pypy
 * ipython

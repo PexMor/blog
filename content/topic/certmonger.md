@@ -7,6 +7,10 @@ tags: ["bash","tricks","cert","FreeIPA"]
 url: "/topic/cert/"
 ---
 
+Have you ever wondered how to make certificate __the right way__? Certmonger is worth checking.
+
+<!--more-->
+
 * IPA
 * Local
 * Third party?

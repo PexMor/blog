@@ -7,6 +7,10 @@ tags: ["bash","tricks","personal"]
 url: "/topic/docker/"
 ---
 
+Containers a namespaced kernel. Great way to achieve better application separation.
+
+<!--more-->
+
 * Docker - the original idea, sometimes misunderstood and misused
 * Lxd - provided by Ubuntu (VM like containers)
 * Rocket or rkt - an alternative

@@ -9,6 +9,8 @@ url: "/topic/blender/"
 
 High dynamic color range.
 
+<!--more-->
+
 Photorealism tutorials by Blender Guru:
 
 ## [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA)

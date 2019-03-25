@@ -7,6 +7,10 @@ tags: ["js"]
 url: "/topic/nodejs/"
 ---
 
+Javascript all around, some thoughts on that fenomenon and the laguage itself.
+
+<!--more-->
+
 * Google [V8](https://v8.dev/)
 * Reverse proxies
  * [Proxygen](https://github.com/facebook/proxygen)

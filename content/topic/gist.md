@@ -7,6 +7,10 @@ tags: ["bash","tricks","gist"]
 url: "/topic/gist/"
 ---
 
+Have your gist at the right place.
+
+<!--more-->
+
 When you want to embed gist from github, you have few options.
 
 This is simply shared link (as provided by gist at the top of gist):

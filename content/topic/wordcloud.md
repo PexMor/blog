@@ -7,5 +7,9 @@ tags: ["graphics","tricks"]
 url: "/topic/wordcloud/"
 ---
 
+One little topic but nice pictures.
+
+<!--more-->
+
 [Word Cloud #2 derived](/wordcloud2.js/)
 
