@@ -131,4 +131,4 @@ __Answer:__ stdin/out/err, but the cousin project __podman__ uses structured API
 
 __Question:__ How to replace legacy of __Mirantis Openstack__ with something fresh?
 
-__Answer:__ Well there is a couple of other doing the same thing like __TripleO__ and __Redhat Director__ but what about to consider shrinking the problem into __just__ making the __VM__ behave like a __container__? Then it is worth to check the idea behind Container Native Virtualization (aka CNV see [as preseneted on Red Hat Summit - May 2018](https://www.redhat.com/files/summit/session-assets/2018/Introducing-Container-native-Virtualization.pdf)).
+__Answer:__ Well there is a couple of other projects doing the same thing (deploy and manage Openstack). The well known are __TripleO__ and its commercial cousin __Redhat Director__ but what about to consider shrinking the problem into __just__ making the __VM__ behave like a __container__? Then it is worth to check the idea behind Container Native Virtualization (aka CNV see [as preseneted on Red Hat Summit - May 2018](https://www.redhat.com/files/summit/session-assets/2018/Introducing-Container-native-Virtualization.pdf)).
