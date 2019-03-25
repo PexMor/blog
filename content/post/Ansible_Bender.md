@@ -21,11 +21,13 @@ Our old friend thus not need for further details [https://www.ansible.com/](http
 
 ### Podman 
 
-__Podman__ is a fully-featured container engine. It provides a Docker-compatible command line to ease the transition from other container engines. Most Podman commands can be run as a regular user, without requiring additional privileges. Furthermore, all of this is accomplished __without a daemon__!
+> __Podman__ is a fully-featured container engine. It provides a Docker-compatible command line to ease the transition from other container engines. Most Podman commands can be run as a regular user, without requiring additional privileges. Furthermore, all of this is accomplished __without a daemon__!
+> -- <cite>Podman 1.0 release</cite>
 
 Well it is worth to say that podman is written in __golang__ the magic ingredient of today’s fancy and successful projects. It comes from Red Hat and but is has been released into public domain (Apache-2.0 license, Github: [tutorial/install](https://github.com/containers/libpod/blob/master/docs/tutorials/podman_tutorial.md)). 
 
-_Cite: Our original goal with Podman was to provide a fully-featured debugging experience for CRI-O, but it has become so much more._
+> _Our original goal with Podman was to provide a fully-featured debugging experience for CRI-O, but it has become so much more._
+> 
 
 __Note-podman:__ Ubuntu users ~ at 16.04LTS you are out of luck :-( Debian, Ubuntu 18.04? Fedora/RHEL family welcome. _Do you really want me to build from source and enjoy the hell of dependencies?_
 
