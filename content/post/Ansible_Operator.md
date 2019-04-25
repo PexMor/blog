@@ -40,7 +40,7 @@ Jakub has also mentioned that he was thinking of intermediate step which should 
 
 And the last thing to mention during the workshop also topic of re-using the existing playbooks surfaced (which Jakub has tried to unsuccessfully exploit). 
 
-There was also a short note on __immutable infrastructure__ vs. __flexible deployments__. The issue of imutable infrastructure is that every change requires new __snapshot__ of the installed software and there is a little room for modifications and/or __debugging__. While __flexible deployment__ taken to the extreme means that you start with bare OS image and configure and setup everything upon every start of the container. The second approach sounds like VMish way and also could remarkably slowdown the bootstrap of running app (time to use/login). Therefore each and everybody be warned, there is no Holly Grail and as many consultants say __It depends__ (__before issuing invoice for consulting services__).
+There was also a short note on __immutable infrastructure__ vs. __flexible deployments__. The issue of immutable infrastructure is that every change requires new __snapshot__ of the installed software and there is a little room for modifications and/or __debugging__. While __flexible deployment__ taken to the extreme means that you start with bare OS image and configure and setup everything upon every start of the container. The second approach sounds like VMish way and also could remarkably slowdown the bootstrap of running app (time to use/login). Therefore each and everybody be warned, there is no Holly Grail and as many consultants say __It depends__ (__before issuing invoice for consulting services__).
 
 Some past K8s operator related talks or workshops:
 
