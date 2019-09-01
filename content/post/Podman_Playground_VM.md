@@ -14,7 +14,7 @@ To take some summer inspiration, I have decided to check the ```podman``` family
 
 The ```podman``` family (the other siblings are ```buildah``` and ```skopeo```) has its repo and install guide at
 [https://github.com/containers/libpod/blob/master/install.md](https://github.com/containers/libpod/blob/master/install.md).
-However, trying that on my ageing Ubuntu distro was nothing you might like to exercise. In a few words, an attempt to install the packages led to the failure of other packages. The ultimate final step was to remove all that which fortunately fixed the world.
+However, trying that on my ageing __Ubuntu 16.04__ distro was nothing you might like to exercise. In a few words, an attempt to install the packages led to the failure of other packages. The ultimate final step was to remove all that which fortunately fixed the world.
 
 Yes, my computer is my __pet__, and I wanna maintain that state.
 
